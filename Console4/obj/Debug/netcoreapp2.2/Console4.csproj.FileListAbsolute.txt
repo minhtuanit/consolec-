@@ -1,0 +1,11 @@
+C:\Users\MINHTUANPC\source\repos\Console4\Console4\bin\Debug\netcoreapp2.2\Console4.deps.json
+C:\Users\MINHTUANPC\source\repos\Console4\Console4\bin\Debug\netcoreapp2.2\Console4.runtimeconfig.json
+C:\Users\MINHTUANPC\source\repos\Console4\Console4\bin\Debug\netcoreapp2.2\Console4.runtimeconfig.dev.json
+C:\Users\MINHTUANPC\source\repos\Console4\Console4\bin\Debug\netcoreapp2.2\Console4.dll
+C:\Users\MINHTUANPC\source\repos\Console4\Console4\bin\Debug\netcoreapp2.2\Console4.pdb
+C:\Users\MINHTUANPC\source\repos\Console4\Console4\obj\Debug\netcoreapp2.2\Console4.csprojAssemblyReference.cache
+C:\Users\MINHTUANPC\source\repos\Console4\Console4\obj\Debug\netcoreapp2.2\Console4.csproj.CoreCompileInputs.cache
+C:\Users\MINHTUANPC\source\repos\Console4\Console4\obj\Debug\netcoreapp2.2\Console4.AssemblyInfoInputs.cache
+C:\Users\MINHTUANPC\source\repos\Console4\Console4\obj\Debug\netcoreapp2.2\Console4.AssemblyInfo.cs
+C:\Users\MINHTUANPC\source\repos\Console4\Console4\obj\Debug\netcoreapp2.2\Console4.dll
+C:\Users\MINHTUANPC\source\repos\Console4\Console4\obj\Debug\netcoreapp2.2\Console4.pdb
